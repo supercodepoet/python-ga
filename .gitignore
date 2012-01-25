@@ -1,11 +1,18 @@
 *.pyc
-
-.installed.cfg
-bin
-develop-eggs
-
 *.egg-info
+*.swp
 
-tmp
+.coverage
+.DS_store
+.installed.cfg
+
+.idea/*
+
+bin
 build
+develop-eggs
 dist
+downloads
+eggs
+parts
+tmp
